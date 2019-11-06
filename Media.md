@@ -1,3 +1,5 @@
+A list of media outlets and podcasts created/produced by PoC. DISCLAIMER: BlackCodeCollective  does not endorse or support organizations or persons in the following list:
+
 ## Media Brands
 - [The Black Man Can](https://www.theblackmancan.com/)
 - [Blavity](https://blavity.com/)
@@ -11,3 +13,5 @@
 - [Dead Ass with Khadeen and Devale Ellis](https://www.deadasspodcast.com)
 - [Hotbox ](https://www.hotboxinpodcast.com/)
 - [The Friend Zone](http://loudspeakersnetwork.com/shows/the-friend-zone/)
+- [Todd Capital](https://podcasts.apple.com/us/podcast/todd-capital-millionaire-podcast/id1266745353)
+- [Juxtaposed](https://soundcloud.com/user-320677)
