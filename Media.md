@@ -10,3 +10,4 @@
 - [Jemel Hill Unbothered](https://open.spotify.com/show/1SXD1U55jqbK9HHoPvdbsw)
 - [Dead Ass with Khadeen and Devale Ellis](https://www.deadasspodcast.com)
 - [Hotbox ](https://www.hotboxinpodcast.com/)
+- [The Friend Zone](http://loudspeakersnetwork.com/shows/the-friend-zone/)
